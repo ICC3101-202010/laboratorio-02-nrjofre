@@ -42,7 +42,7 @@ namespace Laboratorio2
             Espotifai espotifai = new Espotifai();
             espotifai.AgregarCancion(new Cancion("Memories", "Memories", "Maroon 5", "Pop"));
             espotifai.AgregarCancion(new Cancion("Lovely", "Lovely", "Billie Eilish", "Pop"));
-            espotifai.AgregarCancion(new Cancion("Tusa", "Tusa", "Karol G", "Urbano"));
+            espotifai.AgregarCancion(new Cancion("Tusa", "Tusa", "Karol G", "Reggaeton"));
             
             bool cerrarPrograma = false;
             Console.WriteLine("Bienvenido a Espotifai");
